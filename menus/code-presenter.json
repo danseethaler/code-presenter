@@ -1,0 +1,26 @@
+{
+  "context-menu": {
+    "atom-text-editor": [
+      {
+        "label": "Toggle code-presenter",
+        "command": "code-presenter:toggle"
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "code-presenter",
+          "submenu": [
+            {
+              "label": "Toggle",
+              "command": "code-presenter:toggle"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

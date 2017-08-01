@@ -1,0 +1,21 @@
+{
+  "name": "code-presenter",
+  "main": "./lib/code-presenter",
+  "version": "0.0.0",
+  "description": "Record edits and play them back in presentation mode.",
+  "keywords": [],
+  "activationCommands": {
+    "atom-workspace": "code-presenter:record"
+  },
+  "repository": "https://github.com/danseethaler/code-presenter",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "babel-eslint": "^7.2.3",
+    "eslint": "^4.3.0",
+    "eslint-plugin-jest": "^20.0.3"
+  }
+}
