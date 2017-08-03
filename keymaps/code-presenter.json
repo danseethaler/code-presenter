@@ -1,5 +1,8 @@
 {
   "atom-workspace": {
-    "ctrl-alt-o": "code-presenter:toggle"
+    "6": "code-presenter:auto-record",
+    "7": "code-presenter:auto-pause",
+    "8": "code-presenter:auto-back",
+    "9": "code-presenter:auto-play"
   }
 }

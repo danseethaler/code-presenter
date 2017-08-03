@@ -5,7 +5,11 @@
   "description": "Record edits and play them back in presentation mode.",
   "keywords": [],
   "activationCommands": {
-    "atom-workspace": "code-presenter:record"
+    "atom-workspace": [
+      "code-presenter:present",
+      "code-presenter:record",
+      "code-presenter:play"
+    ]
   },
   "repository": "https://github.com/danseethaler/code-presenter",
   "license": "MIT",
