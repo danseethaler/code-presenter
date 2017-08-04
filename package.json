@@ -1,7 +1,7 @@
 {
   "name": "code-presenter",
   "main": "./lib/code-presenter",
-  "version": "0.3.0",
+  "version": "0.3.1",
   "description": "Record edits and play them back in presentation mode.",
   "keywords": [],
   "consumedServices": {
